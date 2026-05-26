@@ -1,1 +1,2 @@
-# this change is in the main brach
+# cool readme file
+- i am creating a conflict
