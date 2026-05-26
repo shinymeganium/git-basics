@@ -1,5 +1,2 @@
-# this change is in the main brach
-
-# this is a change in another-branch
-
-- conflicts are being made
+# cool readme file
+- this is another version (conflict)
