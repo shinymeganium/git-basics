@@ -1,2 +1,2 @@
 # cool readme file
-- i am creating a conflict
+- this is main version
